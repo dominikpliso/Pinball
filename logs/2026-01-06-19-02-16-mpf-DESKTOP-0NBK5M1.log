@@ -1,0 +1,59 @@
+2026-01-06 19:02:16,424 : INFO : root : Loading config.
+2026-01-06 19:02:16,434 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2026-01-06 19:02:16,441 : INFO : ConfigProcessor : Loading config from file C:\Users\pliso\mpf\Lib\site-packages\mpf\mpfconfig.yaml.
+2026-01-06 19:02:16,467 : INFO : ConfigProcessor : Loading config: C:\Users\pliso\mpf\Lib\site-packages\mpf\mpfconfig.yaml
+2026-01-06 19:02:16,467 : INFO : ConfigProcessor : Loading config from file C:\Users\pliso\Documents\Pinball\config\config.yaml.
+2026-01-06 19:02:16,479 : INFO : ConfigProcessor : Loading config: C:\Users\pliso\Documents\Pinball\config\config.yaml
+2026-01-06 19:02:16,479 : INFO : ConfigProcessor : Config file cache created: C:\Users\pliso\AppData\Local\Temp\94d12451d5b44d2fbfc82008ff099658.mpf_cache
+2026-01-06 19:02:16,619 : INFO : ConfigProcessor : Loading config from file C:\Users\pliso\mpf\Lib\site-packages\mpf\modes\attract\config\attract.yaml.
+2026-01-06 19:02:16,630 : INFO : ConfigProcessor : Loading config: C:\Users\pliso\mpf\Lib\site-packages\mpf\modes\attract\config\attract.yaml
+2026-01-06 19:02:16,630 : INFO : ConfigProcessor : Loading config from file C:\Users\pliso\Documents\Pinball\modes\attract\config\attract.yaml.
+2026-01-06 19:02:16,651 : INFO : ConfigProcessor : Loading config: C:\Users\pliso\Documents\Pinball\modes\attract\config\attract.yaml
+2026-01-06 19:02:16,651 : INFO : ConfigProcessor : Config file cache created: C:\Users\pliso\AppData\Local\Temp\4541bb64b9a6bea794dd3eeb75b2137b.mpf_cache
+2026-01-06 19:02:16,651 : INFO : ConfigProcessor : Loading config from cache: C:\Users\pliso\AppData\Local\Temp\8233040a80984f83b3d7894a8635e8dd.mpf_cache
+2026-01-06 19:02:16,661 : INFO : ConfigProcessor : Loading config from cache: C:\Users\pliso\AppData\Local\Temp\4541bb64b9a6bea794dd3eeb75b2137b.mpf_cache
+2026-01-06 19:02:16,671 : INFO : ConfigProcessor : Loading config from file C:\Users\pliso\Documents\Pinball\modes\base\config\base.yaml.
+2026-01-06 19:02:16,693 : INFO : ConfigProcessor : Loading config: C:\Users\pliso\Documents\Pinball\modes\base\config\base.yaml
+2026-01-06 19:02:16,693 : INFO : ConfigProcessor : Config file cache created: C:\Users\pliso\AppData\Local\Temp\5bfbb5bccce6966fd47c3cf70c6416e5.mpf_cache
+2026-01-06 19:02:16,693 : INFO : Machine : Mission Pinball Framework Core Engine v0.80.0.dev11
+2026-01-06 19:02:16,693 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': False, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2026-01-06-19-02-16-mpf-DESKTOP-0NBK5M1.log', 'pause': False, 'production': False, 'text_ui': False, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': 'virtual', 'syslog_address': None, 'full_logfile_path': 'C:\\Users\\pliso\\Documents\\Pinball\\logs\\2026-01-06-19-02-16-mpf-DESKTOP-0NBK5M1.log'}
+2026-01-06 19:02:16,693 : INFO : Machine : MPF path: C:\Users\pliso\mpf\Lib\site-packages\mpf
+2026-01-06 19:02:16,693 : INFO : Machine : Machine path: C:\Users\pliso\Documents\Pinball
+2026-01-06 19:02:16,693 : INFO : Machine : Platform: win32
+2026-01-06 19:02:16,693 : INFO : Machine : Python executable location: C:\Users\pliso\mpf\Scripts\python.exe
+2026-01-06 19:02:16,693 : INFO : Machine : Python version: 3.12.7 (64-bit)
+2026-01-06 19:02:16,693 : INFO : Machine : Initializing MPF...
+2026-01-06 19:02:17,041 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2026-01-06 19:02:17,073 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2026-01-06 19:02:17,073 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev11', 'prev_value': None, 'change': True}
+2026-01-06 19:02:17,073 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev11, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2026-01-06 19:02:17,073 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.12.7', 'prev_value': None, 'change': True}
+2026-01-06 19:02:17,181 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-11-10.0.26100-SP0', 'prev_value': None, 'change': True}
+2026-01-06 19:02:17,181 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2026-01-06 19:02:17,181 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '11', 'prev_value': None, 'change': True}
+2026-01-06 19:02:17,181 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.26100', 'prev_value': None, 'change': True}
+2026-01-06 19:02:17,181 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2026-01-06 19:02:17,181 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': 'C:\\Users\\pliso\\Documents\\Pinball\\logs\\2026-01-06-19-02-16-mpf-DESKTOP-0NBK5M1.log', 'prev_value': None, 'change': True}
+2026-01-06 19:02:17,181 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2026-01-06 19:02:17,206 : INFO : EventManager : Event: ======'init_phase_2'====== Args={}
+2026-01-06 19:02:17,219 : INFO : EventManager : Event: ======'init_phase_3'====== Args={}
+2026-01-06 19:02:17,224 : INFO : EventManager : Event: ======'init_phase_4'====== Args={}
+2026-01-06 19:02:17,224 : INFO : EventManager : Event: ======'machine_var_audits_events_game_started'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-01-06 19:02:17,224 : INFO : EventManager : Event: ======'machine_var_audits_events_game_ended'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2026-01-06 19:02:17,224 : INFO : EventManager : Event: ======'machine_var_audits_player_score'====== Args={'value': {'top': [], 'average': 0, 'total': 0}, 'prev_value': None, 'change': True}
+2026-01-06 19:02:17,224 : INFO : EventManager : Event: ======'init_phase_5'====== Args={}
+2026-01-06 19:02:17,224 : INFO : EventManager : Event: ======'init_done'====== Args={}
+2026-01-06 19:02:17,224 : INFO : EventManager : Event: ======'machine_reset_phase_1'====== Args={}
+2026-01-06 19:02:17,224 : INFO : EventManager : Event: ======'machine_reset_phase_2'====== Args={}
+2026-01-06 19:02:17,224 : INFO : EventManager : Event: ======'machine_reset_phase_3'====== Args={}
+2026-01-06 19:02:17,224 : INFO : EventManager : Event: ======'reset_complete'====== Args={}
+2026-01-06 19:02:17,224 : INFO : EventManager : Event: ======'mode_attract_will_start'====== Args={}
+2026-01-06 19:02:17,224 : INFO : EventManager : Event: ======'mode_attract_starting'====== Args={}
+2026-01-06 19:02:17,224 : INFO : Mode.attract : Started. Priority: 10
+2026-01-06 19:02:17,224 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2026-01-06 19:02:17,224 : INFO : EventManager : Event: ======'mode_attract_started'====== Args={}
+2026-01-06 19:02:17,224 : INFO : EventManager : Event: ======'collecting_balls_complete'====== Args={}
+2026-01-06 19:02:17,224 : INFO : Machine : Starting the main run loop with active modes: [<Mode.attract>]
+2026-01-06 19:02:31,771 : INFO : Machine : Shutting down...
+2026-01-06 19:02:31,771 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2026-01-06 19:02:31,771 : INFO : root : MPF run loop ended.
